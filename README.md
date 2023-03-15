@@ -2,11 +2,11 @@
 ## Descripción ✍🏽
 Portafolio web de Desarrollador de Software.
 
-## Autor
+## Autor 💻
 **Sufian Saguer Mimon**
 * [LinkedIn](https://www.linkedin.com/in/5uf1nh0/)
 
-### Demo
+### Demo ▶
 Para ver una demostración en vivo, visitar el siguiente enlace: 
 - [https://5uf1nh0.github.io/Portafolio/](https://5uf1nh0.github.io/Portafolio/)
 
@@ -15,17 +15,17 @@ Para ver una demostración en vivo, visitar el siguiente enlace:
 2. To add your details, you just need simple editing skills. No code changes required!
 3. Simple and Fast website User Interface.
 
-### Website UI Gallary
-#### About Tab
+### Galeria 📸
+#### Acerca de
 ![About Tab](https://i.postimg.cc/WpCWc7gB/1.png)
 
-#### Skills Tab
+#### Habilidades
 ![Skills Tab](https://i.postimg.cc/HL6zZ0TP/2.png)
 
-#### Project Tab
+#### Proyectos
 ![Project Tab](https://i.imgur.com/u4oyV6r.png)
 
-#### Contact Tab
+#### Contacto
 ![Contact Tab](https://i.postimg.cc/Y0WxCJYJ/4.png)
 
 
