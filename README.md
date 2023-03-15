@@ -3,7 +3,7 @@
 Portafolio web de Desarrollador de Software.
 
 ## Autor
-** Sufian Saguer Mimon **
+**Sufian Saguer Mimon**
 * [LinkedIn](https://www.linkedin.com/in/5uf1nh0/)
 
 ### Demo
