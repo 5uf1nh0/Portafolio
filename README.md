@@ -11,17 +11,17 @@ Para ver una demostración en vivo, visitar el siguiente enlace:
 - [https://5uf1nh0.github.io/Portafolio/](https://5uf1nh0.github.io/Portafolio/)
 
 ### Galeria 📸
-#### Acerca de
-![About Tab](https://i.postimg.cc/WpCWc7gB/1.png)
+#### Sobre Mi
+![About Tab](https://i.postimg.cc/B6MzLy1N/Portafolio-home.png)
 
 #### Habilidades
-![Skills Tab](https://i.postimg.cc/HL6zZ0TP/2.png)
+![Skills Tab](https://i.postimg.cc/ZqP2Z0bG/Portafolio-habilidades.png)
 
 #### Proyectos
-![Project Tab](https://i.imgur.com/u4oyV6r.png)
+![Project Tab](https://i.postimg.cc/ydV5NBWk/Portafolio-proyectos.png)
 
 #### Contacto
-![Contact Tab](https://i.postimg.cc/Y0WxCJYJ/4.png)
+![Contact Tab](https://i.postimg.cc/R0xyjwB1/Contacto.png)
 
 ### Contribuciones
 Todas las colaboraciones, mejoras, correcciones e ideas son bienvenidas.
