@@ -10,11 +10,6 @@ Portafolio web de Desarrollador de Software.
 Para ver una demostración en vivo, visitar el siguiente enlace: 
 - [https://5uf1nh0.github.io/Portafolio/](https://5uf1nh0.github.io/Portafolio/)
 
-### Highlights
-1. Setup is very easy and you get a portfolio template of your own for free.
-2. To add your details, you just need simple editing skills. No code changes required!
-3. Simple and Fast website User Interface.
-
 ### Galeria 📸
 #### Acerca de
 ![About Tab](https://i.postimg.cc/WpCWc7gB/1.png)
